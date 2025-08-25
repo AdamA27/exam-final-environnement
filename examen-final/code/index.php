@@ -353,6 +353,7 @@ function e($text) {
                     • <?php echo round(($statsData['termine'] / $statsData['total']) * 100); ?>% de progression
                 <?php endif; ?>
             </p>
+            <p>Adam Allouch</p>
         </div>
     </div>
 
